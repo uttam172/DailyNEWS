@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+    {
+    "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kelsey Ables",
+            "title": "Latest Israel-Hamas war news and Gaza conflict updates - The Washington Post",
+            "description": "Humanitarian groups and several world leaders have warned that an invasion of the densely populated Gazan city could be disastrous for those seeking refuge there.",
+            "url": "https://www.washingtonpost.com/world/2024/03/16/israel-hamas-war-news-gaza-palestine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/33MJDT5V2OJJ7WH6YOMP5MCYH4_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-03-16T09:01:00Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu has approved plans for a military operation in Rafah, his office said Friday. The statement did not provide additional details about the offensive, which is … [+3521 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Cara Delevingne's LA home destroyed by fire - BBC.com",
+            "description": "The British model and actress thought her two cats had died in the blaze - but",
+            "url": "https://www.bbc.com/news/world-us-canada-68578823",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15999/production/_132937488_7f178422942a84ceaf60990e6918a02af0e77eae0_0_3262_47131384x2000.jpg",
+            "publishedAt": "2024-03-16T07:59:27Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Nicholas McEntyre",
+            "title": "Winner of Powerball's second-largest jackpot worth $1.765B revealed - New York Post ",
+            "description": "The brand-new billionaire was described as a 65-year-old resident of the mountain town of approximately 3,000 people who lives only 500 yards from the store.",
+            "url": "https://nypost.com/2024/03/16/us-news/powerball-1-765-billion-jackpot-winner-theodorus-struyck-revealed-in-california/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/powerball.jpg?quality=75&strip=all&1710551248&w=1024",
+            "publishedAt": "2024-03-16T05:37:08Z",
+            "content": "Golden State billionaire!\r\nThe winner of Powerball’s second largest jackpot prize worth $1.765B was revealed Friday five months after the life-changing drawing. \r\nTheodorus Struyck was named as the r… [+3515 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Biden backs top Democrat Chuck Schumer after call for Israeli election - BBC.com",
+            "description": "Senator Schumer said on Thursday that Israel risked becoming a \"pariah\" with Mr Netanyahu in charge.",
+            "url": "https://www.bbc.com/news/world-us-canada-68580016",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1239D/production/_132935647_gettyimages-2079423851.jpg",
+            "publishedAt": "2024-03-16T04:55:18Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "NC State shocks Virginia with buzzer-beater to force OT, notches 4th win in 4 nights to reach ACC tourney final - Yahoo Sports",
+            "description": "The Wolfpack will face UNC in the final.",
+            "url": "https://sports.yahoo.com/nc-state-shocks-virginia-with-buzzer-beater-to-force-ot-notches-4th-win-in-4-nights-to-reach-acc-tourney-final-040959297.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2snKc9l7EU57nrCTPnrfZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/33662000-e34a-11ee-bf3d-bbe7889f8eed",
+            "publishedAt": "2024-03-16T04:52:03Z",
+            "content": "NC State has its fourth win in four nights, and this might have been the most preposterous one yet.\r\nOne day after stunning No. 2 seed Duke in the quarterfinals of the ACC men's basketball tournament… [+1837 chars]"
+        },
+    {
+    "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "‘Massacre’: Israel forces attack crowds waiting for aid in Gaza, killing 21 - Al Jazeera English",
+            "description": "Palestinian officials call latest assault ‘premeditated’ as people seeking humanitarian supplies increasingly targeted.",
+            "url": "https://www.aljazeera.com/news/2024/3/15/massacre-israel-forces-attack-crowds-waiting-for-aid-in-gaza-killing-21",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-05T133501Z_220968900_RC2O56APWIL4_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-AID-1710479985.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-16T04:17:41Z",
+            "content": "At least 21 Palestinians have been killed after Israeli forces opened fire on thousands of people waiting for aid in Gaza City in the same area that was targeted hours earlier, government officials s… [+4394 chars]"
+        },
+    {
+    "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Sarah Polus",
+            "title": "United Airlines Boeing plane lands without external panel - The Hill",
+            "description": "An external panel was found to be missing from a Boeing United Airlines flight after it landed in southern Oregon on Friday. United Flight 433, which departed from San Francisco at 10:20 a.m., landed in Medford, Ore., just before noon. The external panel was …",
+            "url": "https://thehill.com/homenews/4535836-united-airlines-boeing-plane-lands-without-external-panel/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP24045157363252-e1710002127503.jpg?w=1280",
+            "publishedAt": "2024-03-16T04:01:00Z",
+            "content": "An external panel was found to be missing from a Boeing United Airlines flight after it landed in southern Oregon on Friday.\r\nUnited Flight 433, which departed from San Francisco at 10:20 a.m., lande… [+1347 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Jupiter Unveiled: Hubble Captures the Giant's Roaring Storms and Volcanic Moon Io - SciTechDaily",
+            "description": "Cyclones, Wind Shear, Violent Storms Churn in Jupiter's Atmosphere The largest and nearest of the giant outer planets, Jupiter's colorful clouds present an ever-changing kaleidoscope of shapes and colors. This is a planet where there is always stormy weather:…",
+            "url": "https://scitechdaily.com/jupiter-unveiled-hubble-captures-the-giants-roaring-storms-and-volcanic-moon-io/",
+            "urlToImage": "https://scitechdaily.com/images/Hubble-2024-Jupiter-scaled.jpg",
+            "publishedAt": "2024-03-16T02:58:06Z",
+            "content": "NASA’s Hubble Space Telescope captured new images of Jupiter on January 5-6, 2024, revealing dynamic weather patterns and notable storms like the Great Red Spot and Red Spot Jr. The observations are … [+6761 chars]"
+        },
+    {
+    "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOSHUA A. BICKEL, JOHN SEEWER",
+            "title": "Tornadoes kill 3 and leave trails of destruction in the central US - The Associated Press",
+            "description": "The death toll still stands at three from a series of tornadoes that tore through the central U.S. An Ohio sheriff in what appeared to be the hardest hit area says it’s a surprise more people weren’t killed in Thursday night’s storms. Search crews in Ohio’s L…",
+            "url": "https://apnews.com/article/tornado-indiana-ohio-severe-weather-731ed36b02cd521590ac8f5dbc4509f5",
+            "urlToImage": "https://dims.apnews.com/dims4/default/2358264/2147483647/strip/true/crop/5568x3132+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2Feb%2F2442e6d567721c7ef49d3e085f42%2Fb2963c20157f495dae6322e504190172",
+            "publishedAt": "2024-03-16T02:36:00Z",
+            "content": "LAKEVIEW, Ohio (AP) Blaine Schmidt sifted through the broken glass and splintered wood throughout his Ohio home Friday, salvaging a guitar and a bundle of diapers.\r\nHis couch and a crib had been ripp… [+4309 chars]"
+        },
+    {
+    "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Caitlin Stephen Hu, David Culver, Evelio Contreras, Tara John",
+            "title": "Inside Haiti: A lucky few escape, while millions face gang rule, hunger and chaos - CNN",
+            "description": "The only thing coming into Haiti’s violent capital Port-au-Prince are the private evacuation helicopters – a bitter reminder of the inequality that has plagued Haiti for decades.",
+            "url": "https://www.cnn.com/2024/03/15/americas/haiti-port-au-prince-gangs-escape-intl-latam/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240315201412-culver-heli-vpx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-16T02:16:00Z",
+            "content": "Port-au-Prince, HaitiCNN\r\n  — \r\nIn a city silenced by gangs, everyone notices the thrum of a helicopter beating overhead in the night a brief sign that someone very lucky has been able to leave Port-… [+5231 chars]"
+        },
+    {
+    "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "SEAN HANNITY: Trump prosecutor Fani Willis threw 'lover' Nathan Wade 'under the bus' - Fox News",
+            "description": "Fox News host Sean Hannity criticized Superior Court Judge Scott McAfee's ruling in the case to remove DA Fani Willis from the Georgia-Trump case \"despite all the misconduct\" on \"Hannity.\"",
+            "url": "https://www.foxnews.com/media/sean-hannity-trump-prosecutor-fani-willis-lover-nathan-wade",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b650cf3-4145-47d9-87d5-407cdde65856/bb564018-2c0a-404f-9bca-59dfc2a84f01/1280x720/match/image.jpg",
+            "publishedAt": "2024-03-16T01:29:15Z",
+            "content": "Fox News host Sean Hannity reacts to a ruling in the case to remove Fulton County District Attorney Fani Willis from the Georgia election interference case against former President Trump on \"Hannity.… [+1522 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Jets to sign Tyron Smith: Former Cowboys' LT headed to New York to block for Aaron Rodgers - CBS Sports",
+            "description": "New York is beefing up the offensive line",
+            "url": "https://www.cbssports.com/nfl/news/jets-to-sign-tyron-smith-former-cowboys-lt-headed-to-new-york-to-block-for-aaron-rodgers/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/25/95a44b12-223d-47c3-bab8-0beb92473f62/thumbnail/1200x675/cd192626356a7ca2c67025870e3bb452/tyron-smith-us.jpg",
+            "publishedAt": "2024-03-16T01:24:00Z",
+            "content": "One of the top remaining free agents is off the board, as CBS Sports HQ senior NFL insider Josina Anderson reports that the New York Jets will sign former Dallas Cowboys All-Pro left tackle Tyron Smi… [+1907 chars]"
+        },
+    {
+    "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "David Goldman, Anna Bahney",
+            "title": "The 6% commission on buying or selling a home is gone after Realtors association agrees to seismic settlement - CNN",
+            "description": "The 6% commission, a standard in home purchase transactions, is no more.",
+            "url": "https://www.cnn.com/2024/03/15/economy/nar-realtor-commissions-settlement/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1878228781.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-16T01:17:00Z",
+            "content": "The 6% commission, a standard in home purchase transactions, is no more.\r\nIn a sweeping move expected to dramatically reduce the cost of buying and selling a home, the National Association of Realtor… [+8396 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": "The Times of Israel",
+            "title": "‘Zone of Interest’ producer criticizes Glazer’s Oscars speech: Lacked ‘proper context’ - The Times of Israel",
+            "description": null,
+            "url": "https://www.timesofisrael.com/zone-of-interest-producer-criticizes-glazers-oscars-speech-lacked-proper-context/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-16T01:09:52Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "KSAT San Antonio"
+            },
+            "author": "John Paul Barajas, Adam Barraza",
+            "title": "Colon cancer growing danger for particular age group, San Antonio doctor says - KSAT San Antonio",
+            "description": "March is Colorectal Cancer Awareness Month; the American Cancer Society estimates that 53,000 Americans will die from it in 2024.",
+            "url": "https://www.ksat.com/news/local/2024/03/15/colon-cancer-growing-danger-for-particular-age-group-san-antonio-doctor-says/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-15-2024/t_7fa7c4b98bb9446f97e3ae7b28a71a26_name_image.jpg?_a=ATAPphC0",
+            "publishedAt": "2024-03-15T23:17:50Z",
+            "content": "SAN ANTONIO Its one of the deadliest cancers in America. But do you know the signs of colorectal cancer?\r\nMarch is Colorectal Cancer Awareness Month; the American Cancer Society estimates that 53,000… [+1414 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Kate Middleton Photoshop Backlash Heats Up: Why Instagram Got Involved - CNET",
+            "description": "Yes, all photos are suspect these days. Look at the royal family's original photo on Instagram, and you'll see a new warning.",
+            "url": "https://www.cnet.com/tech/mobile/kate-middleton-photoshop-backlash-heats-up-why-instagram-got-involved/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/8ca9adf5e4c3943f1668c2abc7000f80cebee2ec/hub/2024/03/11/02038d0d-4b63-4f03-9392-8e21ad6f7a64/gettyimages-1241452579.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-15T23:07:00Z",
+            "content": "Why do we feel like the Kate Middleton photo scandal is only just getting started? That news story, in which England's royal family had to admit that the Princess of Wales edited a photo of her famil… [+10475 chars]"
+        },
+    {
+    "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MICHAEL R. SISAK Associated Press, ERIC TUCKER Associated Press",
+            "title": "Donald Trump wanted trial delays, and he's getting them. Hush-money case is latest to be put off - ABC News",
+            "description": "Delays in Donald Trump’s criminal cases are increasing the possibility Americans will be deep into the presidential election season before they know whether or not he has been convicted of any wrongdoing",
+            "url": "https://abcnews.go.com/US/wireStory/donald-trump-wanted-trial-delays-hush-money-case-108169967",
+            "urlToImage": "https://i.abcnewsfe.com/a/0c97b92f-0a4c-4b65-bfd9-00c13f329031/wirestory_f0457777333405498fe7d106756b712a_16x9.jpg?w=1600",
+            "publishedAt": "2024-03-15T22:59:54Z",
+            "content": "NEW YORK -- Delays in Donald Trump's criminal cases are increasing the possibility Americans will be deep into the presidential election season before they know whether or not he has been convicted o… [+8043 chars]"
+        },
+    {
+    "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Boeing tells airlines to check 787 flight deck seat switches - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/aerospace-defense/boeing-tells-airlines-check-787-flight-deck-seat-switches-2024-03-15/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-15T22:55:00Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Gaza aid reaches shore in first sea delivery - BBC.com",
+            "description": "The first crates of food are on dry ground, but how it will be distributed in Gaza remains unclear.",
+            "url": "https://www.bbc.com/news/world-middle-east-68581090",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FCFB/production/_132936746_3ec715251156ad22b7b92d89053e8ed70d01fcbf.jpg",
+            "publishedAt": "2024-03-15T22:36:41Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Christine Idzelis, , Joseph Adinolfi",
+            "title": "U.S. stocks end lower as tech weighs on S&P 500 ahead of Fed meeting - MarketWatch",
+            "description": "Dow books third straight weekly decline",
+            "url": "https://www.marketwatch.com/story/dow-futures-inch-higher-as-inflation-jitters-cap-gains-c377d4a3",
+            "urlToImage": "https://images.mktw.net/im-96067118/social",
+            "publishedAt": "2024-03-15T21:58:00Z",
+            "content": "All three major U.S. equity indexes ended lower Friday, with the S&amp;P 500 weighed down by tech stocks.For the week, the Dow slipped less than 0.1%, the S&amp;P 500 shed 0.1% and the tech-heavy Nas… [+3375 chars]"
+        }
+    ]
+}
