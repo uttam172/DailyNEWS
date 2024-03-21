@@ -16,13 +16,14 @@ export class News extends Component {
         category: PropTypes.string,
     }
 
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
             articles: [],
             loading: false,
             page: 1
         }
+        document.title = this.props.category
     }
 
     async updateNews() {
@@ -45,7 +46,7 @@ export class News extends Component {
         this.setState({ page: this.state.page - 1 });
         this.updateNews();
     }
-    
+
     handleNextClick = async () => {
         this.setState({ page: this.state.page + 1 });
         this.updateNews();
