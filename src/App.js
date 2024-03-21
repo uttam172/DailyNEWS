@@ -4,7 +4,7 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-} from "react-router-dom";
+} from "react-router-dom"
 
 import Navbar from './components/Navbar'
 import News from './components/News'
@@ -15,7 +15,7 @@ export default class App extends Component {
     return (
       <Router>
         <div>
-          <Navbar />
+          <Navbar/>
           <Routes>
             <Route exact path="/" element={<News key="general" pageSize={this.pageSize} country="in" category="general" />} />
             <Route exact path="/business" element={<News key="business" pageSize={this.pageSize} country="in" category="business" />} />

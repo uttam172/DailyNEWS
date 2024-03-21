@@ -7,7 +7,7 @@ export class NewsItem extends Component {
         return (
             <div className="my-3">
                 <div className="card" style={{ width: "auto", border: "none" }}>
-                    <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" style={{marginLeft:'-10%', zIndex:'1'}}>{source}</span>
+                    <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" style={{ marginLeft: '-10%', zIndex: '1' }}>{source}</span>
 
                     <img src={!imageUrl ? "https://ichef.bbci.co.uk/news/1024/branded_news/15999/production/_132937488_7f178422942a84ceaf60990e6918a02af0e77eae0_0_3262_47131384x2000.jpg" : imageUrl} className="card-img-top" alt="..." />
                     <div className="card-body">
