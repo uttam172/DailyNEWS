@@ -4,7 +4,7 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-} from "react-router-dom"                                               //video No. : 34
+} from "react-router-dom"                                              
 
 import Navbar from './components/Navbar'
 import News from './components/News'
